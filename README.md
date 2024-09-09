@@ -2,7 +2,7 @@
 Interactive Graphics in Python - Genetic and Metabolite Visualization
 
 ## 1. About
-This Jupyter Notebook is part of an application for the ETH Zurich DBIOL CAL program and showcases a series of interactive data visualizations developed in Python. The notebook focuses on illustrating the relationships between Single Nucleotide Polymorphisms (SNPs) and metabolite concentrations using fictional data. The visualizations are built using libraries such as matplotlib, plotly, and ipywidgets, allowing for dynamic exploration of genetic data.
+This Jupyter Notebook showcases a series of interactive data visualizations developed in Python. The notebook focuses on illustrating the relationships between Single Nucleotide Polymorphisms (SNPs) and metabolite concentrations using fictional data. The visualizations are built using libraries such as matplotlib, plotly, and ipywidgets, allowing for dynamic exploration of genetic data.
 
 Key components of this notebook include:
 
